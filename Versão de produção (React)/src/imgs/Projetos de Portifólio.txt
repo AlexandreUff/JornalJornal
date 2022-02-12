@@ -1,0 +1,37 @@
+- Jogo da Velha (HTML, CSS e JS);
+- Landing Page de Parabéns ou Confirmação (HTML, CSS e talvez JS);
+- Landing Page envio para email (HTML, CSS, Bootstrap e JS + Regex);
+- Login/Formulário (HTML, CSS, Bootstrap e JS + Regex);
+- eCommerce1 (HTML, CSS, Bootstrap e JS);
+- Site Notícias (Jornal Jornal) (HTML, CSS, Bootstrap e ReactJs/NextJs);
+- eCommerce2 (HTML, CSS, Bootstrap/Tailwind(Básico)?, JS e ReactJs);
+- Jogo da Memória (HTML, CSS e VueJs);
+- Battlecards (ReactJs/NextJs);
+
+- Usar o SASS também em algum desses assim que aprender.
+
+________________________________________
+LOGIN/FORMULÁRIO:
+- Pode pôr no "criar conta" uma criação do tipo passo-a-passo;
+- Assista à aula "entendendo formulários pt2" do curo de Figma;
+________________________________________
+NOTÍCIAS PARA JORNAL JORNAL:
+- Capitão América salva 4 de enchente;
+- Covid: Jogos do Bota-Fogo retornam por baixo risco de aglomeração;
+- Indagado sobre ser PM no Rio, Rambo responde: 'Tá doido?';
+- Cientistas confirmam: 'Minhocas não têm suvaco';
+- Fé na humanidade: Moradores de Porciúncula criam máscaras comunitárias;
+- Hogwarts abre vagas para curso de operador de vassouras;
+- Rubens Barrichello parabenizou ontem Dicaprio pelo prêmio Oscar;
+- Seu Creisson cogita disputar a presidência;
+- Falso abatedouro em São Gonçalo-RJ vendia pombo como galeto;
+- Homem morre após um Nokia cair sobre sua cabeça;
+- Confusão em Hotel de Acapulco termina em tragédia após brincadeira de crianças;
+- Guerrilheiros ocupam vilarejo no México. O dono e um professor são assassinados;
+- Thanos fala sobre diálogo com Avengers: 'Inevitável';
+- Mulher volta com ex-marido 'blipado' e atual reclama: 'Avengers filhos da...';
+- Wakanda...
+
+________________________________________
+Links de Landing Pages:
+https://pt.venngage.com/blog/landing-page/

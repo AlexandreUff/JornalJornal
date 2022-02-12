@@ -1,0 +1,15 @@
+.navMiddleButton {
+    background-color: cornflowerblue;
+    border: 0px;
+    padding: 3px 5px;
+    color: white;
+    transition: .3s;
+
+    margin: 0px 6px;
+    cursor: pointer;
+}
+
+.navMiddleButton:hover {
+    background-color: white;
+    color: cornflowerblue;
+}

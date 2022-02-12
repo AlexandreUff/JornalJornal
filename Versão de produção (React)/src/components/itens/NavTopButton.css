@@ -1,0 +1,39 @@
+.but {
+    background-color: gray;
+    border: 2px solid white;
+    border-radius: 2px;
+    color: white;
+    
+    padding: 2px 10px;
+
+    margin: 2px 10px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.but:hover{
+    background-color: white;
+    color: gray;
+}
+
+.desk {
+    width: 100px;
+}
+
+.mobi{
+    display: none;
+}
+
+.mobi > svg{
+    width: 33px;
+}
+
+@media (max-width: 600px){
+    .desk{
+        display: none;
+    }
+
+    .mobi{
+        display: block;
+    }
+}

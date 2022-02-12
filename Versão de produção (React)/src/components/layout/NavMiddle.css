@@ -1,0 +1,15 @@
+.navMiddle{
+    background-color: cornflowerblue;
+    padding: 2px 10%;
+
+    display: flex;
+    justify-content:space-between;
+
+    flex-wrap: wrap;
+}
+
+@media (max-width: 600px){
+    .navMiddle{
+        display: none;
+    }
+}

@@ -1,0 +1,41 @@
+.ColumArea{
+    width: 200px;
+    margin-right: 10px;
+}
+
+.ColumArea a{
+    text-decoration: none;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ColumArea img{
+    border-radius: 50%;
+    width: 50%;
+}
+
+.ColumArea h5{
+    font-size: 1.5rem;
+    margin: 0;
+    text-align: center;
+}
+
+/*Responsividade*/
+@media (max-width:1200px){
+    .ColumArea h5{
+        font-size: 1.2rem;
+    }
+
+    .ColumArea{
+        margin-right: 35px;
+    }
+}
+
+@media(max-width:650px){
+    .ColumArea h5{
+        font-size: 1rem;
+    }
+}

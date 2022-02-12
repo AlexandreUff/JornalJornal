@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    text-decoration: overline underline;
+}
+
+h1::before{
+    content: '☆';
+    color: crimson;
+}
+
+h1::after{
+    content: '☆';
+    color: cornflowerblue;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 100;
+}
+
+p {
+    text-align: center;
+}
+
+@media(max-width: 620px){
+    h1{
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-weight: 200;
+    }
+
+    h2, p{
+        font-size: 0.6rem;
+    }
+}

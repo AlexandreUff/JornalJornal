@@ -1,0 +1,60 @@
+.TheNews{
+    flex-grow: 1;
+    margin: 10px;
+}
+
+.TheNews small {
+    font-weight: 600;
+    margin: 0px 5px;
+}
+
+.TheNews svg {
+    width: 20px;
+}
+
+.TheNews > a {
+    text-decoration: none;
+    color: black;
+}
+
+.TheNews > a > img {
+    width: 100%;
+}
+
+.TheNews small, .TheNews svg{
+    color: gray;
+    cursor: pointer;
+}
+
+h3.bigger {
+    font-size: 1.5rem;
+}
+
+h3.smaller {
+    font-size: 1.2rem;
+}
+
+/*Responsividade*/
+@media(max-width:1264px){
+    .TheNews > a > h3 {
+        font-size: 1.2rem;
+    }
+}
+
+@media(max-width:1150px){
+
+    h3.bigger {
+        font-size: 1.2rem;
+    }
+    
+    h3.smaller {
+        font-size: 0.9rem;
+    }
+}
+
+@media(max-width:650px){
+    /*A fonte volta para 1.2rem porque fica um tamanho adequado para o tamanho da tela*/
+    h3.smaller {
+        font-size: 1.2rem;
+    }
+}

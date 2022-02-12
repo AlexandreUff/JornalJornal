@@ -1,0 +1,20 @@
+.navTop {
+    background-color: gray;
+    padding: 10px;
+}
+
+.navTop ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+@media(max-width:600px){
+    .navTop ul {
+        justify-content: end;
+    }
+}
